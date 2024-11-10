@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=social-media-app
+Exec=social-media-app %U
+Terminal=false
+Type=Application
+Icon=${SNAP}/meta/gui/icon.png
+StartupWMClass=social-media-app
+Comment=A simple social media app made with python and HTML
+Categories=Utility;

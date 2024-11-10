@@ -1,0 +1,20 @@
+{
+  "name": "social-media-app",
+  "version": "0.2.0",
+  "description": "A simple social media app made with python and HTML",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "keywords": [
+    "social",
+    "media"
+  ],
+  "author": "Piras314",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "electron": "^13.1.7",
+    "electron-builder": "^22.11.7"
+  }
+}
